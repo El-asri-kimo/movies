@@ -1,5 +1,6 @@
 #EXTM3U
-EXTINF:0 tvg-id="avi" group-title="NEW RELEASE",Blacklight
+
+#EXTINF:0 tvg-id="avi" group-title="NEW RELEASE",Blacklight
 http://gazalavatar.com:2082/movie/morrostar0114/5f9021369f573/50970.mp4
 #EXTINF:0 tvg-id="avi" group-title="NEW RELEASE",The Pirates: The Last Royal Treasure
 http://gazalavatar.com:2082/movie/morrostar0114/5f9021369f573/50962.mp4
